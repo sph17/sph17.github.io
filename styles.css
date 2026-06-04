@@ -211,3 +211,46 @@ footer {
     padding-top: 4rem;
   }
 }
+
+.hero-video {
+  position: relative;
+  min-height: 80vh;
+  overflow: hidden;
+  border-radius: 32px;
+  margin-top: 2rem;
+}
+
+.hero-background {
+  position: absolute;
+  inset: 0;
+}
+
+.hero-background iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 177.78vh;
+  height: 56.25vw;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  color: white;
+  padding: 6rem 3rem;
+}
+
+.hero-content .eyebrow,
+.hero-content .hero-text {
+  color: rgba(255,255,255,0.9);
+}
