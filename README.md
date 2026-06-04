@@ -1,6 +1,6 @@
-# Stephanie P. Hao GitHub Pages Site
+# Stephanie P. Hao
 
-This is a lightweight static website for GitHub Pages based on the original BU Blogs site.
+This is a lightweight static website for GitHub Pages.
 
 ## Files
 
