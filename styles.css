@@ -217,7 +217,7 @@ footer {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
-  padding-top: 2rem;
+  padding-top: 1.5rem;
 }
 
 /* Design Den decorative video */
