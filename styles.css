@@ -208,22 +208,21 @@ footer {
 
   .hero,
   .page-hero {
-    padding-top: 4rem;
+    padding: 3rem 0 1rem;
   }
 }
 
 .design-den-hero {
   display: grid;
-  grid-template-columns: 1fr 1.2fr;
-  gap: 3rem;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
   align-items: center;
-  padding: 4rem 0;
 }
 
 /* Design Den decorative video */
 .design-video {
   width: 100%;
-  max-width: 600px;
+  max-width: 850px;
   margin: 0 auto;
   aspect-ratio: 16 / 9;
   overflow: hidden;
