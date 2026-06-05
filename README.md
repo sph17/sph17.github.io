@@ -41,5 +41,5 @@ After the site is live:
 5. Commit the changes.
 6. Click Verify.
 7. Use URL Inspection and request indexing for:
-   - `https://sphao.github.io/`
-   - `https://sphao.github.io/design-den.html`
+   - `https://sph17.github.io/`
+   - `https://sph17.github.io/design-den.html`
