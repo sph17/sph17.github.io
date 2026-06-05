@@ -258,3 +258,16 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+.design-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.design-den-logo {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+}
