@@ -208,14 +208,14 @@ footer {
 
   .hero,
   .page-hero {
-    padding: 3rem;
+    padding: 2rem;
   }
 }
 
 .design-den-hero {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 4rem;
+  gap: 3rem;
 }
 
 /* Design Den decorative video */
