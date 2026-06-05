@@ -208,7 +208,7 @@ footer {
 
   .hero,
   .page-hero {
-    padding: 3rem 0 1rem;
+    padding: 3rem;
   }
 }
 
@@ -216,7 +216,6 @@ footer {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 4rem;
-  align-items: center;
 }
 
 /* Design Den decorative video */
