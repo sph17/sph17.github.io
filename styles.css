@@ -92,7 +92,7 @@ main {
   text-transform: uppercase;
   letter-spacing: 0.12em;
   font-weight: 800;
-  font-size: 0.8rem;
+  font-size: 1rem;
   margin-bottom: 1rem;
 }
 
@@ -117,8 +117,8 @@ h2 {
 }
 
 .hero-subtext {
-  color: var(--muted);
-  font-size: 1rem;
+  color: var(--accent);
+  font-size: 0.8rem;
   margin-top: 1.5rem;
   letter-spacing: 0.04em;
 }
