@@ -116,6 +116,13 @@ h2 {
   max-width: 700px;
 }
 
+.hero-subtext {
+  color: var(--muted);
+  font-size: 1rem;
+  margin-top: 1.5rem;
+  letter-spacing: 0.04em;
+}
+
 .button-row {
   display: flex;
   flex-wrap: wrap;
